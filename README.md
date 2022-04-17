@@ -3,8 +3,8 @@ If you found this application interesting or useful, please consider starring th
 
 ## Usage
 1. Download Python from [here](https://python.org/downloads) if you haven't already. It is necessary for running the Python script.
-2. Use [this link](https://github.com/walesworksltd/portscanner/releases/tag/v2-py/portscanner.py) to download the Python script, or [this link](https://github.com/walesworksltd/portscanner/releases/tag/v2-win/portscanner.exe) to download the Windows application.
-3. Use [this link](https://github.com/walesworksltd/portscanner/releases/tag/v2-win/dlgportscanner.png) to download the asset image. Save this image in the same directory as the software downloaded in the last step.
+2. Use [this link](https://github.com/walesworksltd/portscanner/releases/download/v2-py/portscanner.py) to download the Python script, or [this link](https://github.com/walesworksltd/portscanner/releases/download/v2-win/portscanner.exe) to download the Windows application.
+3. Use [this link](https://github.com/walesworksltd/portscanner/releases/download/v2-win/portscanner.png) to download the asset image. Save this image in the same directory as the software downloaded in the last step.
 4. Right-click the Python script, then select "Open With", then "Python IDLE". After that, select "Run" in the menu bar and then "Run as module" to run the script. Please note that double-clicking the Python script will **not** allow it to work properly!
 5. Double click the Windows application to open it.
 
