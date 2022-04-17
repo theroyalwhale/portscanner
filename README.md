@@ -1,4 +1,4 @@
-# Port Scanner
+# DeLevo Port Scanner
 If you found this application interesting or useful, please consider starring the repo above.
 
 ## Usage
